@@ -5,7 +5,7 @@ This project detects diabetic retinopathy from retinal fundus images using Effic
 
 ## 🔬 Model Summary
 - Pretrained Model: EfficientNetB5
-- Input Size: 400x400
+- Input Size: 456x456
 - Preprocessing: CLAHE, Gaussian Blur, Cropping, Median Filtering
 - Dataset: [Kaggle - Diabetic Retinopathy Detection](https://www.kaggle.com/c/diabetic-retinopathy-detection)
 
