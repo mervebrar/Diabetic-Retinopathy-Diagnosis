@@ -10,8 +10,8 @@ This project detects diabetic retinopathy from retinal fundus images using Effic
 - Dataset: [Kaggle - Diabetic Retinopathy Detection](https://www.kaggle.com/c/diabetic-retinopathy-detection)
 
 ## 📊 Performance
-- Final Validation Accuracy: 0.92
-- Confusion Matrix & Classification Report included
+
+
 
 ## 📁 Files
 - `model_efficientNet.ipynb`: Training notebook
