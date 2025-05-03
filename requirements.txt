@@ -1,0 +1,7 @@
+tensorflow==2.13.0
+opencv-python
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
